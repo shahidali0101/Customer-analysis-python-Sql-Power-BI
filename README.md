@@ -5,9 +5,11 @@ A complete end-to-end **Customer Behaviour Analysis** project using **Python (Pa
 ---
 ## 📸 Power BI Dashboard Snapshot
 <p align="center">
-  <img src="snapshot.png" width="600">
-</p
+  <img src="snapshot.png" width="500">
+  <img src="insights.png" width="500">
+</p>
 
+---
 ## 📌 Table of Contents
 1. [About the Project](#about-the-project)  
 2. [Project Motivation & Goals](#project-motivation--goals)  
@@ -15,10 +17,6 @@ A complete end-to-end **Customer Behaviour Analysis** project using **Python (Pa
 4. [Tools & Technologies](#tools--technologies)  
 5. [Project Workflow](#project-workflow)  
 6. [Key Insights & Findings](#key-insights--findings)  
-7. [Repository Structure](#repository-structure)  
-8. [How to Run the Project](#how-to-run-the-project)  
-9. [Future Improvements](#future-improvements)  
-10. [License](#license)
 
 ---
 
@@ -45,13 +43,13 @@ This project performs an in-depth analysis of customer data to understand purcha
 | PurchaseAmount | Amount spent per transaction |
 | Date | Purchase date |
 | ProductCategory | Category of purchased product |
-*(Replace with actual column details from your dataset.)*
+
 
 ---
 
 ## 🛠 Tools & Technologies
 - **Python (Pandas)** — Data cleaning, preprocessing, exploratory data analysis  
-- **SQL (MySQL/SQLite/PostgreSQL)** — Data storage, querying, transformation  
+- **SQL (MySQL)** — Data storage, querying, transformation  
 - **Power BI** — Interactive dashboard creation  
 - **Jupyter Notebook / Scripts** — Code environment
 
@@ -60,8 +58,7 @@ This project performs an in-depth analysis of customer data to understand purcha
 ## 🔄 Project Workflow
 1. **Data Loading & Cleaning (Python)**  
    - Import dataset with Pandas  
-   - Handle missing values and duplicates  
-   - Feature engineering  
+   - Handle missing values and duplicates   
 
 2. **Data Storage & Querying (SQL)**  
    - Load cleaned data into SQL database  
@@ -75,9 +72,6 @@ This project performs an in-depth analysis of customer data to understand purcha
 ---
 
 ## 📊 Key Insights & Findings
-*(Highlight your key results — e.g., high-value customer segments, sales trends, seasonal patterns, etc.)*
-
-✔ Example:  
 - Top customer segments by revenue  
 - Monthly sales performance  
 - Average purchase value by category
