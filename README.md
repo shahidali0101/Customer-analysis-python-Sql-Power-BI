@@ -12,11 +12,10 @@ A complete end-to-end **Customer Behaviour Analysis** project using **Python (Pa
 ---
 ## 📌 Table of Contents
 1. [About the Project](#about-the-project)  
-2. [Project Motivation & Goals](#project-motivation--goals)  
-3. [Dataset Overview](#dataset-overview)  
-4. [Tools & Technologies](#tools--technologies)  
-5. [Project Workflow](#project-workflow)  
-6. [Key Insights & Findings](#key-insights--findings)  
+2. [Project Motivation & Goals](#project-motivation--goals)   
+3. [Tools & Technologies](#tools--technologies)  
+4. [Project Workflow](#project-workflow)  
+5. [Key Insights & Findings](#key-insights--findings)  
 
 ---
 
