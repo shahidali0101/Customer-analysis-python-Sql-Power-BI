@@ -1,5 +1,5 @@
 
-# 📊 Customer Behaviour Analysis  
+# 📊 Customer Behaviour Analysis   
 A complete end-to-end **Customer Behaviour Analysis** project using **Python (Pandas)**, **SQL**, and **Power BI** to uncover insights into purchasing patterns, customer segmentation, and business decision-making trends.
 
 ---
