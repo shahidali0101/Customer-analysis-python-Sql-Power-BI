@@ -5,8 +5,8 @@ A complete end-to-end **Customer Behaviour Analysis** project using **Python (Pa
 ---
 ## 📸 Power BI Dashboard Snapshot
 <p align="center">
-  <img src="snapshot.png" width="500">
-  <img src="insights.png" width="500">
+  <img src="snapshot.png" width="450">
+  <img src="insights.png" width="450">
 </p>
 
 ---
@@ -33,15 +33,15 @@ This project performs an in-depth analysis of customer data to understand purcha
 ---
 
 ## 🗃 Dataset Overview
-*(Provide a brief description of your dataset here — source, number of records, key fields, etc.)*
 
-📦 Example:
-| Column | Description |
-|--------|-------------|
-| CustomerID | Unique customer identifier |
-| PurchaseAmount | Amount spent per transaction |
-| Date | Purchase date |
-| ProductCategory | Category of purchased product |
+| Attribute | Details |
+|------------|---------|
+| 📄 Total Records | 3,900 rows |
+| 🧩 Total Features | 19 columns |
+| 🔢 Numerical Variables | 5 continuous features |
+| 🏷️ Categorical Variables | 14 categorical features |
+
+
 
 
 ---
@@ -64,7 +64,7 @@ This project performs an in-depth analysis of customer data to understand purcha
    - Write SQL queries to extract business insights  
 
 3. **Visualization & Dashboard (Power BI)**  
-   - Connect SQL data to Power BI  
+   - Upload cleaned data to Power BI  
    - Create interactive visualizations  
    - Build dashboards with filters and key metrics
 
@@ -74,7 +74,14 @@ This project performs an in-depth analysis of customer data to understand purcha
 - Top customer segments by revenue  
 - Monthly sales performance  
 - Average purchase value by category
+  
+**Revenue**: Gender & age group splits  
+**Loyalty**: Subscribers spend more; repeat buyers (>5 purchases) subscribe  
+**Products**: Top 5 rated items; top 3 per category  
+**Discounts**: Premium discount users; discount-heavy products  
+**Shipping**: Express vs Standard spend comparison
 
 ---
-
-## 📁 Repository Structure
+## 👩‍💻 Author  
+**Shahid Ali**  
+*Data Analyst*
