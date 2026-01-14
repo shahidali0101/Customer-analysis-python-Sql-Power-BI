@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------
 --    CUSTOMER BEHAVIOUR ANALYSIS 
--- ----------------------------------------------------------
+-- ---------------------------------------------------------- 
 
 CREATE DATABASE IF NOT EXISTS Customer_behaviour;
 USE Customer_behaviour;
